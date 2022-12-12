@@ -1,0 +1,9 @@
+.track-pill {
+    width: 48%;
+}
+
+.track-pill:hover {
+    transform: scale(102%);
+    overflow: visible;
+    cursor: pointer;
+}
